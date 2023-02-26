@@ -1,0 +1,53 @@
+.sliderImg {
+    width: 300px;
+}
+
+.prevArrow-div1 {
+    position:absolute;
+    z-index: 30;
+    top:130px
+}
+.prevArrow-div2{
+    background: #fab1a0;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+.nextArrow-div1{
+    position: absolute;
+    right: 0;
+    top: 140px;
+}
+.nextArrow-div2{
+    background: #fab1a0;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+}
+
+.slider-div1 {
+    position: relative;
+}
+
+.slider-div2 {
+    position: absolute;
+    top: 300px;
+    padding-left: 10px;
+    text-align: left;
+}
+.sliderDiv-p1{
+    color: white;
+    font-size: large;
+}
+.sliderDiv-p2{
+    color: #f8d000;
+    font-size: larger;
+    font-weight: bold;
+    margin-top: -10px;
+}

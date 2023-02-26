@@ -1,0 +1,202 @@
+.page1 {
+    position: relative;
+}
+
+.page1_1 {
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+.page-p1 {
+    color: azure;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.page-p2{
+    color: #f8d000;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+.page-p3{
+    color: white;
+    font-size: 1.3rem;
+    font-weight:500;
+}
+.page-p4{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.page1_2{
+    margin-top: 30px;
+    display: flex;
+    gap: 40px;
+}
+.page-button_0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    font-size: small;
+    width: 250px;
+    height: 50px;
+    border: none;
+    cursor: pointer;
+}
+.page-button_1 {
+    font-size: small;
+    width: 250px;
+    height: 50px;
+    border: none;
+}
+
+.page-button_2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    font-size: small;
+    width: 250px;
+    height: 50px;
+    border: none;
+}
+
+.page2 {
+    margin-top: 30px;
+}
+
+.page3{
+    margin-top: 30px;
+}
+
+.page3-img{
+    width: 100%;
+}
+
+.page3_1 {
+    position: relative;
+}
+
+.page3_2 {
+    position: absolute;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: -600px;
+    color: white;
+}
+
+.page3_p1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #f8d000;
+}
+
+.page3_p2{
+    font-size: 2rem;
+    margin-top: -20px;
+}
+
+.page3_button{
+   
+        font-size: small;
+        width: 200px;
+        height: 50px;
+        border: none;
+        margin-top: 40px;
+}
+
+.page4_1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.page4_img {
+    width: 650px;
+}
+
+.page4_2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.page4-button{
+    font-size: 17px;
+    background-color: transparent;
+    width: 250px;
+    border: 1px solid gray;
+    height: 45px;
+}
+.page5{
+    display: flex;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    justify-content: space-around;
+}
+.page5_img{
+    display: block;
+    width: 80px;
+    margin-left: 70px;
+}
+.page5-div1 {
+    margin-top: 30px;
+}
+
+.page6 {
+    margin-top: 30px;
+}
+.page6_img {
+    width: 100%;
+}
+
+.page6_1 {
+    position: relative;
+}
+.page6_2{
+    position: absolute;
+    right: 0;
+    margin-top: -400px;
+    margin-right: 50px;
+    color: white;
+}
+.page6_2 > h1 {
+    font-size:2.5rem;
+}
+
+.page6_2 > button {
+    font-size: 17px;
+    width: 250px;
+    height: 45px;
+}
+
+.page7 {
+    display: flex;
+    justify-content:center;
+    gap:10px;
+    color: #001f49;
+    background-color: #ebedf3;
+    margin-top: 30px;
+    height:100px
+}
+.page7 > input {
+    width: 300px;
+    height: 35px;
+    margin-top: 35px;
+    border: 1px solid #001f49;
+    margin-left: 10px;
+}
+
+.page7 > p {
+    margin-top: 40px;
+}
+
+.page7 > button{
+    height: 39px;
+    margin-top: 35px;
+    background-color: #001f49;
+    color: white;
+    margin-left: -10px;
+}

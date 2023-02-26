@@ -1,0 +1,26 @@
+.footerContainer{
+    margin-top: 30px;
+}
+
+.footerDiv_1 {
+    display: flex;
+    text-align: left;
+    gap: 100px;
+    margin-left: 200px;
+}
+
+.footerDiv_1 > div > p {
+    font-weight:light ;
+    font-size: small;
+}
+.footerDiv-3 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 30px;
+}
+.footerImg {
+    width: 15px;
+}
+
+
